@@ -1,0 +1,14 @@
+-- SQLBook: Markup
+1. Посчитайте, сколько компаний закрылось.
+-- SQLBook: Code
+SELECT COUNT(c.name)
+FROM company AS c
+WHERE status = 'closed'
+-- SQLBook: Markup
+2. Отобразите количество привлечённых средств для новостных компаний США. Используйте данные из таблицы company. Отсортируйте таблицу по убыванию значений в поле funding_total .
+-- SQLBook: Code
+SELECT c.funding_total
+FROM company AS c
+WHERE category_code = 'news'
+  AND country_code = 'USA'
+ORDER BY c.funding_total DESC
