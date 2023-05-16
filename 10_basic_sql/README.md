@@ -17,7 +17,7 @@
 В данных об инвестициях вам встретятся упоминания раундов, но самостоятельный проект не предполагает, что вы должны разбираться в их специфике лучше любого инвестора. Главное — понимать, как устроены данные. 
 
 ER-диаграмма базы данных:
-![ER-диаграмма проекта Базовый SQL](https://github.com/vadimprimakov/Yandex_practicum_DS_Plus/blob/main/14_advanced_sql/10_er_basic_sql.png)
+![ER-диаграмма проекта Базовый SQL](https://github.com/vadimprimakov/Yandex_practicum_DS_Plus/blob/main/10_basic_sql/10_er_basic_sql.png)
 
 Описание данных, которые хранят таблицы:
 
