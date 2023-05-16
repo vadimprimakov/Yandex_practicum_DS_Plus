@@ -5,7 +5,7 @@
 В самостоятельном проекте вы будете работать с базой данных StackOverflow — сервиса вопросов и ответов о программировании. StackOverflow похож на социальную сеть — пользователи сервиса задают вопросы, отвечают на посты, оставляют комментарии и ставят оценки другим ответам.
 Вы будете работать с версией базы, где хранятся данные о постах за 2008 год, но в таблицах вы найдёте информацию и о более поздних оценках, которые эти посты получили. 
 
-![stackoverflow-ER-diagram](https://github.com/vadimprimakov/Yandex_practicum_DS_Plus/blob/main/14_advanced_sql/14_stackoverflow.png)
+![ER-диаграмма проекта продвинутый SQL](https://github.com/vadimprimakov/Yandex_practicum_DS_Plus/blob/main/14_advanced_sql/14_stackoverflow.png)
 
 Описание данных, которые хранят таблицы:
 
