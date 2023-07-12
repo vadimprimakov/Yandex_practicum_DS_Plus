@@ -19,15 +19,15 @@
 Содержание
 
 1.  Подготовка
-    1.1  Загрузка библиотек и датасетов
-    1.2.  Ресемплирование и проверка на монотонность
+    - 1.1  Загрузка библиотек и датасетов
+    - 1.2.  Ресемплирование и проверка на монотонность
 2.  Анализ
 3.  Обучение
-    3.1  DecisionTreeRegressor
-    3.2  RandomForestRegressor
-    3.3  GradientBoostingRegressor
-    3.4  LightGBMRegressor
-    3.5  CatBoostRegressor
+    - 3.1  DecisionTreeRegressor
+    - 3.2  RandomForestRegressor
+    - 3.3  GradientBoostingRegressor
+    - 3.4  LightGBMRegressor
+    - 3.5  CatBoostRegressor
 4.  Тестирование
 
 
