@@ -94,6 +94,8 @@ CatBoostClassifier может показать себя очень хорошо 
 
 Исходные данные обладают большим количеством признаков. Созданных столбцов больше, чем записей данных. Так как TF-IDF превращают текст в численные значения, лучшими моделями стали LogisticRegression и SGDClassifier.
 
+![Топ 25 самых токсичных слов с точки зрения модели](https://github.com/vadimprimakov/Yandex_practicum_DS_Plus/blob/main/18_comments/18_top25_most_toxic_words.png)
+
 На тестовой выбоке по метрике F1 лучше всего себя показала Логистическая регрессия. Данная модель обладает лучшими показателями по матрице ошибок. Это говорит нам, что токсичные комментарии находятся лучше.
 
 ![Матрица ошибок](https://github.com/vadimprimakov/Yandex_practicum_DS_Plus/blob/main/18_comments/18_confusion_matrix.png)
