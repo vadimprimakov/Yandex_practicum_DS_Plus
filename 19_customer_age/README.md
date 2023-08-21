@@ -17,6 +17,8 @@
 3. Обучите нейронную сеть и рассчитайте её качество.
 
 ![Пример фотографии](https://github.com/vadimprimakov/Yandex_practicum_DS_Plus/blob/main/19_customer_age/19_examples.png)
+![Пример фотографии](https://github.com/vadimprimakov/Yandex_practicum_DS_Plus/blob/main/19_customer_age/19_examples2.png)
+![Пример фотографии](https://github.com/vadimprimakov/Yandex_practicum_DS_Plus/blob/main/19_customer_age/19_examples3.png)
 
 
 Содержание
