@@ -1,5 +1,9 @@
 # Yandex Practicum Data Science+ Projects.
 
+![Диплом о профессиональной переподготовке](https://github.com/vadimprimakov/Yandex_practicum_DS_Plus/certificate_rus.pdf)
+
+![Certificate of completion](https://github.com/vadimprimakov/Yandex_practicum_DS_Plus/certificate_rus.pdf)
+
 Репозиторий с проектами программы курсов Яндекс Практикум по направлению Data Science+.
 
 | № | Название проекта  | Краткое описание | Инструменты |
